@@ -1,4 +1,4 @@
-# 참고용 - 코드 가져옴
+# 참고용 - 코드 가져옴 https://velog.io/@kimdukbae/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0-Python
 # 백트래킹 (Python3 통과, PyPy3도 통과)
 import sys
 
