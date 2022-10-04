@@ -25,3 +25,6 @@ else:
                 dp[i] = max(dp[i-2], dp[i-3]+li[i-1]) + li[i]
 
             print(dp[N-1])
+
+# c++ 에서의 return 0 처럼 sys.exit(0)으로 조건문에서 프로그램 중단 가능
+# -> 불필요한 조건 제거 가능
