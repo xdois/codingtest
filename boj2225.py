@@ -14,6 +14,7 @@ for i in range(2, k+1):
         dp[i][j] = sum(dp[i-1][:j+1])
 
 print(dp[k][n]%int(1e9))
+
 '''
 dp[201][201]
 
